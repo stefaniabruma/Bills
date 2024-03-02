@@ -1,0 +1,3 @@
+1,Bon Kaufland,22.12.2023
+2,Facturi utilitati,01.01.2024
+3,Bon H&M,05.01.2024

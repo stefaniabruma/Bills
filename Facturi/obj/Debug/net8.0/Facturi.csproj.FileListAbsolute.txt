@@ -1,0 +1,14 @@
+C:\Users\stefa\RiderProjects\Facturi\Facturi\bin\Debug\net8.0\Facturi.exe
+C:\Users\stefa\RiderProjects\Facturi\Facturi\bin\Debug\net8.0\Facturi.deps.json
+C:\Users\stefa\RiderProjects\Facturi\Facturi\bin\Debug\net8.0\Facturi.runtimeconfig.json
+C:\Users\stefa\RiderProjects\Facturi\Facturi\bin\Debug\net8.0\Facturi.dll
+C:\Users\stefa\RiderProjects\Facturi\Facturi\bin\Debug\net8.0\Facturi.pdb
+C:\Users\stefa\RiderProjects\Facturi\Facturi\obj\Debug\net8.0\Facturi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stefa\RiderProjects\Facturi\Facturi\obj\Debug\net8.0\Facturi.AssemblyInfoInputs.cache
+C:\Users\stefa\RiderProjects\Facturi\Facturi\obj\Debug\net8.0\Facturi.AssemblyInfo.cs
+C:\Users\stefa\RiderProjects\Facturi\Facturi\obj\Debug\net8.0\Facturi.csproj.CoreCompileInputs.cache
+C:\Users\stefa\RiderProjects\Facturi\Facturi\obj\Debug\net8.0\Facturi.dll
+C:\Users\stefa\RiderProjects\Facturi\Facturi\obj\Debug\net8.0\refint\Facturi.dll
+C:\Users\stefa\RiderProjects\Facturi\Facturi\obj\Debug\net8.0\Facturi.pdb
+C:\Users\stefa\RiderProjects\Facturi\Facturi\obj\Debug\net8.0\Facturi.genruntimeconfig.cache
+C:\Users\stefa\RiderProjects\Facturi\Facturi\obj\Debug\net8.0\ref\Facturi.dll
